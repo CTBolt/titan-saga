@@ -19,9 +19,9 @@ img/doodads/WaterfallBot3x1.png https://ctbolt.files.wordpress.com/2020/04/water
 img/doodads/WaterfallBotLeftCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallbot-leftcliff-3x1-1.png
 img/doodads/WaterfallBotRightCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallbot-rightcliff-3x1-1.png
 img/doodads/WaterfallMid-3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-3x1-1.png
-img/doodads/WaterfallMidLeftCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-leftcliff-3x1-1
+img/doodads/WaterfallMidLeftCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-leftcliff-3x1-1.png
 img/doodads/WaterfallMidRightCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-rightcliff-3x1-1.png
 img/doodads/WaterfallTop3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-3x1-1.png
-img/doodads/WaterfallTopLeftCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-leftcliff-3x1-1
+img/doodads/WaterfallTopLeftCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-leftcliff-3x1-1.png
 img/doodads/WaterfallTopRightCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-rightcliff-3x1-1.png
 <End of Version>
