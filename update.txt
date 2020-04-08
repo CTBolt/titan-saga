@@ -1,4 +1,4 @@
-<Version: 1.00>
+<Version: 1.01>
 img/titles2/Command_0.png https://ctbolt.files.wordpress.com/2020/04/command_0.png
 img/titles2/Command_1.png https://ctbolt.files.wordpress.com/2020/04/command_1.png
 img/titles2/Command_2.png https://ctbolt.files.wordpress.com/2020/04/command_2.png
@@ -7,4 +7,11 @@ img/titles2/Command_4.png https://ctbolt.files.wordpress.com/2020/04/command_4.p
 img/titles2/Particles.png https://ctbolt.files.wordpress.com/2020/04/particles.png
 img/titles2/Splash_0.png https://ctbolt.files.wordpress.com/2020/04/splash_0.png
 img/titles2/Splash_1.png https://ctbolt.files.wordpress.com/2020/04/splash_1.png
+
+img/tilesets/Dungeon_A4.png https://ctbolt.files.wordpress.com/2020/04/dungeon_a4.png
+img/tilesets/Dungeon_B.png https://ctbolt.files.wordpress.com/2020/04/dungeon_b.png
+img/tilesets/Hills_A2_CTB.png https://ctbolt.files.wordpress.com/2020/04/hills_a2_ctb.png
+img/tilesets/Hills_B_CTB.png https://ctbolt.files.wordpress.com/2020/04/hills_b_ctb.png
+img/tilesets/Outside_A1.png https://ctbolt.files.wordpress.com/2020/04/outside_a1.png
+img/tilesets/Outside_A5_CTB.png https://ctbolt.files.wordpress.com/2020/04/outside_a5_ctb.png
 <End of Version>
