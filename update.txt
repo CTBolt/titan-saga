@@ -8,8 +8,8 @@ img/tilesets/Outside_A1.png https://ctbolt.files.wordpress.com/2020/04/outside_a
 img/tilesets/Outside_A5_CTB.png https://ctbolt.files.wordpress.com/2020/04/outside_a5_ctb.png
 img/characters/!Chest.png https://ctbolt.files.wordpress.com/2020/04/!chest.png
 img/characters/!Flame.png https://ctbolt.files.wordpress.com/2020/04/!flame.png
-img/characters/$Hero.png https://ctbolt.files.wordpress.com/2020/04/$hero.png
-img/characters/$Hero_Pick.png https://ctbolt.files.wordpress.com/2020/04/$hero_pick.png
+img/characters/$Hero.png https://ctbolt.files.wordpress.com/2020/04/hero.png
+img/characters/$Hero_Pick.png https://ctbolt.files.wordpress.com/2020/04/hero_pick.png
 img/characters/Bugs.png https://ctbolt.files.wordpress.com/2020/04/bugs-2.png
 img/characters/Enemies.png https://ctbolt.files.wordpress.com/2020/04/enemies-2.png
 img/characters/Vehicle.png https://ctbolt.files.wordpress.com/2020/04/vehicle-2.png
