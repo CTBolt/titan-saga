@@ -13,15 +13,15 @@ img/characters/$Hero_Pick.png https://ctbolt.files.wordpress.com/2020/04/hero_pi
 img/characters/Bugs.png https://ctbolt.files.wordpress.com/2020/04/bugs-2.png
 img/characters/Enemies.png https://ctbolt.files.wordpress.com/2020/04/enemies-2.png
 img/characters/Vehicle.png https://ctbolt.files.wordpress.com/2020/04/vehicle-2.png
-img/doodads/FoamBot-3x1-.png https://ctbolt.files.wordpress.com/2020/04/foambot-3x1-1.png
-img/doodads/FoamTop-3x1-.png https://ctbolt.files.wordpress.com/2020/04/foamtop3x1.png
-img/doodads/WaterfallBot-3x1-.png https://ctbolt.files.wordpress.com/2020/04/waterfallbot-3x1-1.png
-img/doodads/WaterfallBotLeftCliff-3x1-.png https://ctbolt.files.wordpress.com/2020/04/waterfallbot-leftcliff-3x1-1.png
-img/doodads/WaterfallBotRightCliff-3x1-.png https://ctbolt.files.wordpress.com/2020/04/waterfallbot-rightcliff-3x1-1.png
-img/doodads/WaterfallMid-3x1-.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-3x1-1.png
-img/doodads/WaterfallMidLeftCliff-3x1-.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-leftcliff-3x1-1
-img/doodads/WaterfallMidRightCliff-3x1-.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-rightcliff-3x1-1.png
-img/doodads/WaterfallTop-3x1-.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-3x1-1.png
-img/doodads/WaterfallTopLeftCliff-3x1-.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-leftcliff-3x1-1
-img/doodads/WaterfallTopRightCliff-3x1-.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-rightcliff-3x1-1.png
+img/doodads/FoamBot3x1.png https://ctbolt.files.wordpress.com/2020/04/foambot-3x1-1.png
+img/doodads/FoamTop3x1.png https://ctbolt.files.wordpress.com/2020/04/foamtop3x1.png
+img/doodads/WaterfallBot3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallbot-3x1-1.png
+img/doodads/WaterfallBotLeftCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallbot-leftcliff-3x1-1.png
+img/doodads/WaterfallBotRightCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallbot-rightcliff-3x1-1.png
+img/doodads/WaterfallMid-3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-3x1-1.png
+img/doodads/WaterfallMidLeftCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-leftcliff-3x1-1
+img/doodads/WaterfallMidRightCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfallmid-rightcliff-3x1-1.png
+img/doodads/WaterfallTop3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-3x1-1.png
+img/doodads/WaterfallTopLeftCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-leftcliff-3x1-1
+img/doodads/WaterfallTopRightCliff3x1.png https://ctbolt.files.wordpress.com/2020/04/waterfalltop-rightcliff-3x1-1.png
 <End of Version>
